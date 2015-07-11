@@ -11,14 +11,14 @@ To see requirements view *composer.json*. Some of them are:
 
 ## Installation
 
-- Execute `composer install` to install vendors,
+- Execute `composer install` to install vendors.
 - Run `phpunit` to execute tests.
 
 ## Description
 
 This repository will contain more things related to software engineering in the future (diagrams etc.).
 
-## Autorzy
+## Authors
 
 - [Daniel Iwaniec](https://github.com/daniel-iwaniec)
 
