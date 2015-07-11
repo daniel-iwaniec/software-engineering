@@ -1,6 +1,6 @@
 <?php
 
-namespace DanielIwaniec\SoftwareEngineering\Tests\DesignPattern;
+namespace DanielIwaniec\SoftwareEngineering\Tests\DesignPattern\Singleton;
 
 use DanielIwaniec\SoftwareEngineering\DesignPattern\Singleton\Singleton;
 
