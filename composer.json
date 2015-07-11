@@ -1,0 +1,13 @@
+{
+  "name": "daniel-iwaniec/software-engineering",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.7.*"
+  },
+  "autoload": {
+    "psr-4": {"DanielIwaniec\\SoftwareEngineering\\": ""}
+  }
+}
