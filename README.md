@@ -24,4 +24,4 @@ This repository will contain more things related to software engineering in the 
 
 ## License
 
-This code is released under MIT license. [View full license](LICENSE.md).
+This code is released under MIT license. [View full license](LICENSE).

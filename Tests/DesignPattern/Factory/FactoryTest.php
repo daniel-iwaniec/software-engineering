@@ -18,6 +18,7 @@ class FactoryTest extends \PHPUnit_Framework_TestCase
         $productA = $factory->createProduct('A');
 
         $this->assertInstanceOf('DanielIwaniec\SoftwareEngineering\DesignPattern\Factory\ProductInterface', $productA);
+        $this->assertInstanceOf('DanielIwaniec\SoftwareEngineering\DesignPattern\Factory\ProductA', $productA);
     }
 
     /**
@@ -29,6 +30,7 @@ class FactoryTest extends \PHPUnit_Framework_TestCase
         $productB = $factory->createProduct('B');
 
         $this->assertInstanceOf('DanielIwaniec\SoftwareEngineering\DesignPattern\Factory\ProductInterface', $productB);
+        $this->assertInstanceOf('DanielIwaniec\SoftwareEngineering\DesignPattern\Factory\ProductB', $productB);
     }
 
     /**
